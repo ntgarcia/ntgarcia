@@ -1,5 +1,6 @@
-### Hi there 👋
+#### Hi there! 👋
 
+I'm a Calgary-based Software Developer with a passion of bridging coding and design.
 <!--
 **ntgarcia/ntgarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
